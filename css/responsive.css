@@ -1,0 +1,397 @@
+.show{
+	display:block;
+}
+.hide{
+	display:none;
+}
+
+@media (max-width:768px){
+	.full_contain_wrapper{
+		width:100%;
+	
+	}
+	.Sub_wrapper{
+		width:100%;
+	}
+	.logo_img_section{
+		width:95%;
+		margin:0 auto;
+		float:none;
+	}
+	.logo_img_section img{
+		width:100%;
+	}
+	#menu{
+		width:100%;
+	}
+	.sub_wrapper_1{
+		width:100%;
+	}
+	.about_us_section{
+		width:100%;
+	}
+	.heading{
+		font-size:40px;
+	}
+	.border{
+		width:100px;
+	}
+	.title{
+		font-size:20px;
+	}
+	.title > i{
+		display:none;
+	}
+	.paragraph{
+	width: 100%;
+	padding:2%;
+	float: none;
+	font-size:16px;
+	}
+	.img_left{
+		width: 90%;
+		padding-left:5%;
+	float: none;
+
+	padding-left: 10%;
+	}
+	.activities_section{
+		width:100%;
+	}
+	.inv_activities {
+
+    width: 90%;
+    float: none;
+    }
+	#inv_activities{
+		width: 90%;
+
+	margin: 0 auto;
+	}
+	#inv_activities-1{
+		width: 90%;
+
+	margin: 0 auto;
+	}
+	#inv_activities img{
+		width:100%;
+	}
+	#inv_activities-1 img{
+		width:100%;
+	}
+	.paragraph_1{
+	width: 90%;
+	padding:8%;
+	float: none;
+	font-size:16px;
+	}
+	.title{
+		margin-top:20px;
+	}
+	.title span{
+		font-size:30px;
+	}
+	.sub_activities{
+		width:100%;
+	}
+	.all{
+		width:95%;
+    padding-left: 2%;
+    padding-right: 2%;
+
+	}
+	.all h2{
+		font-size:18px;
+	}
+	.mission_section{
+		width:100%;
+	}
+	.responsive_for{
+		display:none;
+	}
+	
+	.indi_mission{
+		float:none;
+		width:100%;
+	}
+	.ind_img_mission{
+		width: 82%;
+		margin-left: 10%;
+		padding-top: 0%;
+	}
+	.ind_img_mission img{
+		width:82%;
+	}
+	.indi_mission all_1{
+		width:100%;
+	}
+	.all_1 h2:first-child{
+		margin-top:0px;
+	}
+	.indi_mission{
+		margin-top:0px;
+	}
+	.all_1 h2{
+		font-size:18px;
+		padding-left:2%;
+		padding-right:2%;
+	}
+	.teacher_corner{
+		width:100%;
+	}
+	.universities{
+		padding-top:0px;
+	}
+	.teacher_corner{
+		width:100%;
+	}
+	.ind_teacher_university{
+		width:100%;
+	}
+	.teacher_university_float{
+		width:90%;
+		float:none;
+		margin-top:20px;
+		
+	}
+	.teacher_university_float:last-child{
+		margin-left:20px;
+	}
+	.teacher_university_float img{
+		width:100%;
+		opacity:1;
+	}
+	.teacher_corner_1{
+		width:100%;
+		padding-bottom:0%;
+	}
+	.ind_teacher_university_1{
+		width:100%;
+	}
+	.ind_teacher_university_1 img{
+		width:90%;
+		opacity:1;
+		height:400px;
+		
+	}
+	.ind_teacher_university_1 img:hover{
+		width:90%;
+		height:400px;
+	}
+	.overlay{
+		width: 100%;
+	}
+	.detail h2{
+		font-size:30px;
+	}
+	.detail h3{
+		font-size:16px;
+	}
+	.gallery_section{
+		display:none;
+	}
+	
+	.count{
+		width:100%;
+		padding:0%;
+		margin-top:20px;
+	}
+	.footer_wrapper{
+		width:100%;
+		padding:0;
+		margin:0 auto;
+	}
+	.ind_footer:first-child{
+	margin-left:0;
+}
+	.sub_footer_wrapper{
+		width:100%;
+	}
+	.ind_footer{
+		width:100%;
+		float:none;
+		text-align:center;
+		padding-bottom:20px;
+	}
+	.ind_footer h3{
+		padding:20px;
+	}
+	.ind_footer2{
+		float:none;
+	}
+	.img_silder{
+		margin-top: 5px;
+		overflow: hidden;
+		width: 100%;
+
+		}
+	
+	.img_silder img{
+		width:100%;
+		height:200px;
+	}
+	.logo_setup{
+		width:100%;
+	}
+	
+	.logo_img_section{
+		float:none;
+		margin:0 auto;
+		
+		
+	}
+	.logo_img_section img{
+		border-radius:10%;
+	}
+	.title_moving{
+		width:100%;
+		
+	}
+	.title_moving h2 h3{
+		font-size:20px;
+	}
+	.university_member_wrapper{
+		width:100%;
+		margin:0px auto;
+	}
+	.sub_executive_member_wrapper{
+		width:100%;
+		margin:0 auto;
+		margin-left:0;
+	}
+	.ind_executive_member_wrapper{
+		width:100%;
+		float:none;
+		margin-left:0;
+		margin-right:0;
+	}
+	.person_img{
+	width:50%;
+	border-radius:50%;
+	height:50%;
+	margin-left:25%;
+	}
+	.log_university{
+		width:100%;
+	}
+	.log_university img{
+		width:50%;
+		margin-left: 25%;
+		height:50%;
+	}
+	
+	.iu_img{
+		width:100%;
+	}
+	.iu_img img{
+		width:50%;
+		height:50%;
+		margin-left: 22%;
+	}
+	.other_1{margin-bottom:0px;}
+	.problem{
+		width:100%;
+	}
+	
+	.show{
+		display:none;
+	}
+	.hide{
+		display:block;
+	}
+	.excecutive_responsive{
+		width:100%;
+		overflow:idden;
+	}
+	.excecutive_responsive img{
+		width:50%;
+		height:50%;
+	}
+	.contact_wrapper{
+		width:100%;
+		text-align:center;
+	}
+	.sub_contact_wrapper{
+		width:100%;
+	}
+	.sub_contact_wrapper{
+		width:100%;
+		font-size:12px;
+	}
+	.form{
+		width:100%;
+	}
+	.name{
+		float:none;
+	}
+	.form input[type="text"],.form input[type="email"],.Photo input[type="file"]{
+	background:#273a71;
+	border:1px solid #273a71;
+	outline:none;
+	box-sizing:border-box;
+	padding:5px;
+	text-align:center;
+	border-radius:5px;
+	margin-left:0;
+	font-size:20px;
+	color:white;
+	margin:0 auto;
+	width:80%;
+	margin-top:10px
+}
+.Photo {
+	width:100%;
+	margin-top:0;
+}
+.Photo input[type="file"]{
+	
+	width:80%;
+}
+.name_email-1{
+	margin-top:0px;
+}
+	.message textarea{
+		width:80%;
+		height:20%;
+		text-align:center;
+	}
+	.form_header{
+			margin-bottom:0px;
+			margin-top:0px;
+			margin-left:0px;
+			margin-right:0px;
+			padding-top:0;
+			padding-bottom:0px;
+			padding-left:0px;
+			padding-right:0px;
+		}
+	.sust_bg{
+		margin-bottom:0px;
+	}
+	.history_of_debidwar_4{
+		width:100%;
+		background-size:contain;
+	}
+	.person_img_1 {
+	width:50%;
+	border-radius:50%;
+	height:50%;
+	margin-left:0;
+	}
+	
+	.indi_count{
+		width:100%;
+		float:none;
+	}
+	.all h2{
+		text-align:justify;
+	}
+	.detailsAbout p{
+		font-size:16px;
+	}
+}
+
+
+
+
+
